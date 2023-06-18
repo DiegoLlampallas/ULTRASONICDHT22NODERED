@@ -18,6 +18,8 @@ Para realizar esta practica se usaran los siguientes elementos:
 - Sensor ultrasónico
 - Sensor DHT22
 - Pantalla LCD 16X2
+- Fuente de voltaje 5v
+- Tierra
 - [NODE RED](http://localhost:1880/)
 
 
